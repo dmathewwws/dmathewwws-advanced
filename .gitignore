@@ -22,3 +22,12 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+build/
+.cache/
+.config/
+.data/
+.firebase
+.firebaserc
+.glitchdotcom.json
+*.tar
