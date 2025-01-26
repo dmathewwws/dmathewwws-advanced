@@ -31,3 +31,4 @@ build/
 .firebaserc
 .glitchdotcom.json
 *.tar
+.nvmrc
